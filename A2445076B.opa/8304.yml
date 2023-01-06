@@ -1,0 +1,39 @@
+segment_sources:
+  IE5AAACCE:
+    type: origin_type
+    relation: translation
+    base: 942C
+    lang: en
+  ICE740ACB:
+    type: origin_type
+    relation: translation
+    base: D88D
+    lang: bo
+segment_pairs:
+  49e5a495bfed47389b4c644abc7ce0b6:
+    IE5AAACCE: d1ea1e6f1ba3428088ef9acd5f1a9eaa
+    ICE740ACB: 1dbfefe9ce6b4d5cba7b751568fea8d1
+  31791fd1c86749c3b35073f0792dbd3f:
+    IE5AAACCE: 174db1838d164a53a68ca2026b8f9bbb
+    ICE740ACB: 74e232af104c40b8aa566a28b10f3d3c
+  a8cf1ef18fe340b1858727ef99d9f402:
+    IE5AAACCE: e48d1ea9932a40b68b64538fd355a412
+    ICE740ACB: b9b1224da46745efb48f4d75df4aeab5
+  1febe89bd0954d8c9f3a8ab5c6f3e236:
+    IE5AAACCE: 81ee82db9fca41f29460a3ef8fc8a6e6
+    ICE740ACB: a6cf688f7bca44a3be3673e3ee6741c5
+  65e7d223051e495dbf3ec8f76bf5e158:
+    IE5AAACCE: ed162f1e75cf48a5a9f18ed40d012b33
+    ICE740ACB: 3dcc4e9ec39e43c08def56b6b659333b
+  6895e920636c479f98d1beb903316719:
+    IE5AAACCE: d9873c96a74f4ac380749d891806a19b
+    ICE740ACB: 18b41072a26a4638a6542eb3d2c4176e
+  d8546dcc6e97422ea6fe23ebaf908040:
+    IE5AAACCE: a47c434a76224ed28bba7c47b2fb3cc3
+    ICE740ACB: d9c4cfa25a2f4039b42f92f9231191e8
+  b22c83288cc14ba6b50ca34e0bf94dd3:
+    IE5AAACCE: 37b4a5e93f7040e89f9e2f61ba83792f
+    ICE740ACB: 0742aa8af58a4be6bde7b7294cd045c3
+  baa4db87e57d4ea198d3a3215e82350f:
+    IE5AAACCE: d6492e40e80d40369167b52b5d361356
+    ICE740ACB: 59f4c31da33549c7b40dd6e2c907f229
